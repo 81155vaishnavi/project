@@ -11,4 +11,7 @@ public class Student {
 	{
 		System.out.println("*******************");
 	}
+	public void m1()
+	{
+	}
 }
